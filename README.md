@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/64122408/101913604-335bb900-3be9-11eb-95e2-7b3ff01fb555.png" height=50px width=50px>&emsp;PC Build</h1>
+<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/64122408/118642285-c8965580-b7f8-11eb-9838-b1780fbc7dbc.png" height=50px width=50px>&emsp;PC Build</h1>
 <br/>
 
 <div align="center">
