@@ -122,7 +122,7 @@ CREATE TABLE PCBUILDS
 </tr>
 <tr>
   <td><h3>Welcome Screen</h3></td>
-  <td><h3>Login or Regiser Screen</h3></td>
+  <td><h3>Login or Register Screen</h3></td>
 </tr>
 </table>
 <br/>
@@ -133,7 +133,7 @@ CREATE TABLE PCBUILDS
 <td><img src="https://user-images.githubusercontent.com/64122408/118637837-d72e3e00-b7f3-11eb-998e-c4f767387dff.png"/></td>
 </tr>
 <tr>
-  <td><h3>CPU Selection Screem</h3></td>
+  <td><h3>CPU Selection Screen</h3></td>
   <td><h3>Display Selection Screen</h3></td>
 </tr>
 </table>
@@ -145,7 +145,7 @@ CREATE TABLE PCBUILDS
 <td><img src="https://user-images.githubusercontent.com/64122408/118638321-59b6fd80-b7f4-11eb-8233-4f216ea7b6ea.png"/></td>
 </tr>
 <tr>
-  <td><h3>Selected Build Screem</h3></td>
+  <td><h3>Selected Build Screen</h3></td>
   <td><h3>Export Build Screen</h3></td>
 </tr>
 </table>
